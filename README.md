@@ -8,7 +8,7 @@
 <br/>
 
 - 🚀 Junior Web Developer
-- 🔭 I am currently learning and improving NodeJS, Typescript, NextJS!
+- 🔭 I am currently learning and improving NodeJS, Typescript, ReactJS!
 - 💬 I am available for work in the home office mode!
 - 📫 How to reach me: erycsonjose@gmail.com
 
